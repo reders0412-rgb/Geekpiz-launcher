@@ -3,8 +3,8 @@
     {
       "game_id": "my_rpg_1",
       "game_name": "전설의 유니니",
-      "icon_url": "https://네-저장소.com/icon1.png",
-      "bg_url": "https://네-저장소.com/background1.jpg",
+      "icon_url": "https://github.com/reders0412-rgb/ggg/releases/download/Game/2026-01-29.185949.png",
+      "bg_url": "https://github.com/reders0412-rgb/ggg/releases/download/Game/default.png",
       "latest_version": "1.0.0",
       "versions": [
         { 
@@ -16,5 +16,6 @@
     }
   ]
 }
+
 
 
