@@ -13,20 +13,7 @@
           "download_url": "https://네-저장소.com/game_v1.0.0.7z" 
         }
       ]
-    },
-    {
-      "game_id": "my_rpg_2",
-      "game_name": "전설의 유니유니",
-      "icon_url": "https://네-저장소.com/icon2.png",
-      "bg_url": "https://네-저장소.com/background2.jpg",
-      "latest_version": "1.0.0",
-      "versions": [
-        { 
-          "ver": "1.0.0", 
-          "note": "신규 버전!",
-          "download_url": "https://네-저장소.com/game_v1.0.0.7z" 
-        }
-      ]
     }
   ]
 }
+
