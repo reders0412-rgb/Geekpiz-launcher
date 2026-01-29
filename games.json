@@ -2,7 +2,7 @@
   "games": [
     {
       "game_id": "my_rpg",
-      "game_name": "전설의 유니유니",
+      "game_name": "전설의 유니니",
       "latest_version": "1.0.0",
       "versions": [
         { 
@@ -15,3 +15,4 @@
   ]
 
 }
+
