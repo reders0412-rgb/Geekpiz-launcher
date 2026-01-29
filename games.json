@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "game_id": "my_rpg",
+      "game_name": "전설의 유니티 RPG",
+      "latest_version": "1.0.0",
+      "versions": [
+        { 
+          "ver": "1.0.0", 
+          "note": "최초 출시!",
+          "url": "https://네-렌더-주소.com/v1.0.0.7z"
+        }
+      ]
+    }
+  ]
+}
