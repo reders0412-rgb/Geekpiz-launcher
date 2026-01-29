@@ -10,26 +10,21 @@
         { 
           "ver": "1.0.0", 
           "note": "최초 출시!",
-          "download_url": "https://네-저장소.com/game_v1.7z" 
+          "download_url": "https://네-저장소.com/game_v1.0.0.7z" 
         }
       ]
-    }
-  ]
-}
-
-{
-  "games": [
+    },
     {
       "game_id": "my_rpg_2",
       "game_name": "전설의 유니유니",
-      "icon_url": "https://네-저장소2.com/icon1.png",
-      "bg_url": "https://네-저장소2.com/background1.jpg",
+      "icon_url": "https://네-저장소.com/icon2.png",
+      "bg_url": "https://네-저장소.com/background2.jpg",
       "latest_version": "1.0.0",
       "versions": [
         { 
           "ver": "1.0.0", 
-          "note": "최초 출시!",
-          "download_url": "https://네-저장소2.com/game_v1.7z" 
+          "note": "신규 버전!",
+          "download_url": "https://네-저장소.com/game_v1.0.0.7z" 
         }
       ]
     }
