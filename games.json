@@ -1,22 +1,15 @@
-{
-  "games": [
-    {
-      "game_id": "my_rpg_1",
-      "game_name": "전설의 유니니",
-      "icon_url": "https://raw.githubusercontent.com/reders0412-rgb/ggg/refs/heads/main/2026-01-29.185949.png?token=GHSAT0AAAAAADSC3JQG5XF4Z4NXRSA4EJJ62L3GGCQ",
-      "bg_url": "https://raw.githubusercontent.com/reders0412-rgb/ggg/refs/heads/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?token=GHSAT0AAAAAADSC3JQH4CNL5RUCT2BVY72C2L3GG6A",
-      "latest_version": "1.0.0",
-      "versions": [
-        { 
-          "ver": "1.0.0", 
-          "note": "최초 출시!",
-          "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/Game/VAULT.7z" 
-        }
-      ]
-    }
-  ]
-}
-
-
-
-
+[
+  {
+    "game_id": "ggg_game",
+    "game_name": "나의 첫 게임",
+    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png",
+    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/Game/VAULT.7z",
+        "note": "첫 출시!"
+      }
+    ]
+  }
+]
