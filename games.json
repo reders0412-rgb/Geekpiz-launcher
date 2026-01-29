@@ -1,38 +1,37 @@
 {
   "games": [
     {
-      "game_id": "my_rpg",
+      "game_id": "my_rpg_1",
       "game_name": "전설의 유니니",
+      "icon_url": "https://네-저장소.com/icon1.png",
+      "bg_url": "https://네-저장소.com/background1.jpg",
       "latest_version": "1.0.0",
       "versions": [
         { 
           "ver": "1.0.0", 
           "note": "최초 출시!",
-          "url": "https://네-렌더-주소.com/v1.0.0.7z"
+          "download_url": "https://네-저장소.com/game_v1.7z" 
         }
       ]
     }
   ]
-
 }
 
 {
   "games": [
     {
-      "game_id": "my_rg",
+      "game_id": "my_rpg_2",
       "game_name": "전설의 유니유니",
+      "icon_url": "https://네-저장소2.com/icon1.png",
+      "bg_url": "https://네-저장소2.com/background1.jpg",
       "latest_version": "1.0.0",
       "versions": [
         { 
           "ver": "1.0.0", 
           "note": "최초 출시!",
-          "url": "https://네-렌더-주소.com/v1.0.0.7z"
+          "download_url": "https://네-저장소2.com/game_v1.7z" 
         }
       ]
     }
   ]
-
 }
-
-
-
