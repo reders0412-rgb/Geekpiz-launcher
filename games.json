@@ -20,8 +20,8 @@
         "note": "첫 출시를 축하합니다!\n\n[업데이트 내용]\n- 게임 엔진 최적화\n- 신규 캐릭터 추가\n- 버그 수정 및 안정성 향상"
       }
     ]
-  }
-
+  },
+  {
     "game_id": "gg_game",
     "game_name": "나 첫 게임",
     "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
@@ -44,4 +44,3 @@
     ]
   }
 ]
-
