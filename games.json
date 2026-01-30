@@ -14,7 +14,7 @@
       },
       {
         "ver": "1.0.1",
-        "date": "2026-02-30",
+        "date": "2026-02-28",
         "bg_url": "",
         "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/Game/VAULT.7z",
         "note": "두번째 출시를 축하합니다!\n\n[업데이트 내용]\n- 게임 엔진 최적화\n- 신규 캐릭터 추가\n- 버그 수정 및 안정성 향상"
@@ -22,5 +22,6 @@
     ]
   }
 ]
+
 
 
