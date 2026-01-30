@@ -10,7 +10,7 @@
         "date": "2026-01-30",
         "bg_url": "",
         "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdf/VAULT.zip",
-        "note": "Post-processing 적용, \n 맵 확장, 1인칭 추가"
+        "note": "Post-processing 적용, 배경음악 추가, \n 맵 확장, 1인칭 추가"
       },
       {
         "ver": "1.0.0",
@@ -67,3 +67,4 @@
         ]
   }
 ]
+
