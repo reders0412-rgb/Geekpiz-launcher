@@ -8,107 +8,17 @@
       { "ver": "1.0.0", "date": "2026-01-30", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "오리지널 버전" },
       { "ver": "1.1.0", "date": "2026-01-31", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "최적화 업데이트" }
     ]
-  },
-  {
-    "game_id": "game_vault_02",
-    "game_name": "더 볼트: 리마스터",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "2.0.0", "date": "2026-02-01", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "리마스터 버전" }
-    ]
-  },
-  {
-    "game_id": "game_vault_03",
-    "game_name": "볼트 서바이ㄴㅇ벌",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
-    ]
-  },
-  {
-    "game_id": "game_vault_013",
-    "game_name": "볼트 서바ㄴㅇㄹ이벌",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
-    ]
-  },
-  {
-    "game_id": "game_vault_023",
-    "game_name": "볼트 서바ㅌㅊㅍ이벌",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
-    ]
-  },
-  {
-    "game_id": "game_vault_033",
-    "game_name": "볼트 서바ㅋㅌㄹㄷ이벌",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
-    ]
-  },
-  {
-    "game_id": "game_vault_0343",
-    "game_name": "볼트 서바ㄴㅇㄹ하ㅣ이벌",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
-    ]
-  },
-  {
-    "game_id": "game_vault_03333",
+  3333",
     "game_name": "볼트 서바이ㅊㅍㄹㄴㄹㅇㄴ벌",
     "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
     "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
     "versions": [
       { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
     ]
-  },
-  {
-    "game_id": "game_vault_33333303",
-    "game_name": "볼트 서바이ㄴㄹㄷㅇㅊ퓨벌",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
-    ]
-  },
-  {
-    "game_id": "game_vault_2ㅈ03",
-    "game_name": "볼트 서바이퓨ㅜㅛㅎ벌",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
-    ]
-  },
-  {
-    "game_id": "game_vault_234404",
-    "game_name": "볼트 카트",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "1.0.5", "date": "2026-02-10", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "레이싱 외전" }
-    ]
-  },
-  {
-    "game_id": "game_vault_2305",
-    "game_name": "볼트 타이쿤",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
-    "versions": [
-      { "ver": "1.0.0", "date": "2026-02-15", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "경영 시뮬레이션" }
-    ]
+  
   }
 ]
+
 
 
 
