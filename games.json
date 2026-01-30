@@ -1,24 +1,65 @@
 [
   {
-    "game_id": "game_vault_01",
-    "game_name": "더 볼트: 오리진",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+    "game_id": "VAULT",
+    "game_name": "VAULT",
+    "icon_url": "https://github.com/.../icon1.png?raw=true",
+    "bg_url": "https://github.com/.../default_bg.jpg?raw=true",
     "versions": [
-      { "ver": "1.0.0", "date": "2026-01-30", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "오리지널 버전" },
-      { "ver": "1.1.0", "date": "2026-01-31", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "최적화 업데이트" }
+      {
+        "ver": "1.0.1",
+        "date": "2026-01-30",
+        "bg_url": "https://github.com/.../season3_bg.jpg?raw=true",
+        "download_url": "다운로드 링크 1",
+        "note": "Post-processing 적용, \n 맵 확장, 1인칭 추가"
+      },
+      {
+        "ver": "1.0.0",
+        "date": "2026-1-20",
+        "bg_url": "",
+        "download_url": "다운로드 링크 2",
+        "note": "점프맵 첫 출시"
+      }
     ]
-  3333",
-    "game_name": "볼트 서바이ㅊㅍㄹㄴㄹㅇㄴ벌",
-    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
-    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+  },
+  {
+    "game_id": "Sewer_Escape",
+    "game_name": "Sewer Escape",
+    "icon_url": "https://github.com/.../icon1.png?raw=true",
+    "bg_url": "https://github.com/.../default_bg.jpg?raw=true",
     "versions": [
-      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
+      {
+        "ver": "1.0.0",
+        "date": "2026-1-12",
+        "bg_url": "",
+        "download_url": "다운로드 링크 2",
+        "note": "하수도에서 쫒아오는 좀비를 피해 도망치세요!"
+      },
+      {
+    "game_id": "runner",
+    "game_name": "runner",
+    "icon_url": "https://github.com/.../icon1.png?raw=true",
+    "bg_url": "https://github.com/.../default_bg.jpg?raw=true",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "date": "2026-1-19",
+        "bg_url": "",
+        "download_url": "다운로드 링크 2",
+        "note": "무한히 이어지는 공간에서 점프하고 달리세요!"
+      },
+      {
+    "game_id": "viking_world",
+    "game_name": "viking world",
+    "icon_url": "https://github.com/.../icon1.png?raw=true",
+    "bg_url": "https://github.com/.../default_bg.jpg?raw=true",
+    "versions": [
+      {
+        "ver": "1.0.0 Showcase",
+        "date": "2026-1-23",
+        "bg_url": "",
+        "download_url": "다운로드 링크 2",
+        "note": "바이킹들의 마을 구경"
+      }
     ]
-  
   }
 ]
-
-
-
-
