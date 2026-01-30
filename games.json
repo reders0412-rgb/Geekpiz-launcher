@@ -28,6 +28,69 @@
     ]
   },
   {
+    "game_id": "game_vault_03",
+    "game_name": "볼트 서바이벌",
+    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
+    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+    "versions": [
+      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
+    ]
+  },
+  {
+    "game_id": "game_vault_03",
+    "game_name": "볼트 서바이벌",
+    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
+    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+    "versions": [
+      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
+    ]
+  },
+  {
+    "game_id": "game_vault_03",
+    "game_name": "볼트 서바이벌",
+    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
+    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+    "versions": [
+      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
+    ]
+  },
+  {
+    "game_id": "game_vault_03",
+    "game_name": "볼트 서바이벌",
+    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
+    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+    "versions": [
+      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
+    ]
+  },
+  {
+    "game_id": "game_vault_03",
+    "game_name": "볼트 서바이벌",
+    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
+    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+    "versions": [
+      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
+    ]
+  },
+  {
+    "game_id": "game_vault_03",
+    "game_name": "볼트 서바이벌",
+    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
+    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+    "versions": [
+      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
+    ]
+  },
+  {
+    "game_id": "game_vault_03",
+    "game_name": "볼트 서바이벌",
+    "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
+    "bg_url": "https://github.com/reders0412-rgb/gg/blob/main/%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%94%AC.png?raw=true",
+    "versions": [
+      { "ver": "0.9.0", "date": "2026-02-05", "download_url": "https://github.com/reders0412-rgb/ggg/releases/download/games/VAULT.7z", "note": "얼리 액세스" }
+    ]
+  },
+  {
     "game_id": "game_vault_04",
     "game_name": "볼트 카트",
     "icon_url": "https://github.com/reders0412-rgb/gg/blob/main/2026-01-29.185949.png?raw=true",
@@ -46,3 +109,4 @@
     ]
   }
 ]
+
