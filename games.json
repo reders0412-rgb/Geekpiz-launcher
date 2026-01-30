@@ -2,21 +2,21 @@
   {
     "game_id": "VAULT",
     "game_name": "VAULT",
-    "icon_url": "https://github.com/.../icon1.png?raw=true",
-    "bg_url": "https://github.com/.../default_bg.jpg?raw=true",
+    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/VAULT%40icon.jpg",
+    "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/VAULT%40bg1.0.1.png",
     "versions": [
       {
         "ver": "1.0.1",
         "date": "2026-01-30",
-        "bg_url": "https://github.com/.../season3_bg.jpg?raw=true",
-        "download_url": "다운로드 링크 1",
+        "bg_url": "",
+        "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdf/VAULT.zip",
         "note": "Post-processing 적용, \n 맵 확장, 1인칭 추가"
       },
       {
         "ver": "1.0.0",
         "date": "2026-1-20",
-        "bg_url": "",
-        "download_url": "다운로드 링크 2",
+        "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/VAULT%40bg1.0.0.png",
+        "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdf/VAULT.1.zip",
         "note": "점프맵 첫 출시"
       }
     ]
@@ -24,42 +24,46 @@
   {
     "game_id": "Sewer_Escape",
     "game_name": "Sewer Escape",
-    "icon_url": "https://github.com/.../icon1.png?raw=true",
-    "bg_url": "https://github.com/.../default_bg.jpg?raw=true",
+    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40icon.png",
+    "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40bg.png",
     "versions": [
-      {
-        "ver": "1.0.0",
-        "date": "2026-1-12",
-        "bg_url": "",
-        "download_url": "다운로드 링크 2",
-        "note": "하수도에서 쫒아오는 좀비를 피해 도망치세요!"
-      },
-      {
+            {
+                "ver": "1.0.0",
+                "date": "2026-1-12",
+                "bg_url": "",
+                "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/games/Sewer.Escape.zip",
+                "note": "하수도에서 쫒아오는 좀비를 피해 도망치세요!"
+            }
+        ]
+    },
+    {
     "game_id": "runner",
     "game_name": "runner",
-    "icon_url": "https://github.com/.../icon1.png?raw=true",
-    "bg_url": "https://github.com/.../default_bg.jpg?raw=true",
+    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/runner%40icon.png",
+    "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/runner%40bg.png",
     "versions": [
-      {
-        "ver": "1.0.0",
-        "date": "2026-1-19",
-        "bg_url": "",
-        "download_url": "다운로드 링크 2",
-        "note": "무한히 이어지는 공간에서 점프하고 달리세요!"
-      },
-      {
-    "game_id": "viking_world",
-    "game_name": "viking world",
-    "icon_url": "https://github.com/.../icon1.png?raw=true",
-    "bg_url": "https://github.com/.../default_bg.jpg?raw=true",
+            {
+                "ver": "1.0.0",
+                "date": "2026-1-19",
+                "bg_url": "",
+                "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/sdfg/runner.zip",
+                "note": "무한히 이어지는 공간에서 점프하고 달리세요!"
+            }
+        ]
+    },
+    {
+    "game_id": "valhalla",
+    "game_name": "valhalla",
+    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/valhalla%40icon.png",
+    "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/valhalla%40bg.png",
     "versions": [
-      {
-        "ver": "1.0.0 Showcase",
-        "date": "2026-1-23",
-        "bg_url": "",
-        "download_url": "다운로드 링크 2",
-        "note": "바이킹들의 마을 구경"
-      }
-    ]
+            {
+                "ver": "1.0.0 Showcase",
+                "date": "2026-1-23",
+                "bg_url": "",
+                "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asd/viking.world.7z",
+                "note": "바이킹들의 마을 구경"
+            }
+        ]
   }
 ]
