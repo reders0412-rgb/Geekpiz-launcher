@@ -9,14 +9,14 @@
         "ver": "1.0.1",
         "date": "2026-01-30",
         "bg_url": "",
-        "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdf/VAULT.zip",
-        "note": "Post-processing 적용, 배경음악 추가, \n 맵 확장, 1인칭 추가"
+        "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdf/VAULT2.7z",
+        "note": "Post-processing 적용, 배경음악 추가, \n 맵 확장, 1인칭 추가, 배경 변경"
       },
       {
         "ver": "1.0.0",
         "date": "2026-1-20",
         "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/VAULT%40bg1.0.0.png",
-        "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdf/VAULT.1.zip",
+        "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdf/VAULT1.7z",
         "note": "점프맵 첫 출시"
       }
     ]
@@ -67,6 +67,7 @@
         ]
   }
 ]
+
 
 
 
