@@ -6,6 +6,13 @@
     "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/VAULT%40bg1.0.1.png",
     "versions": [
       {
+        "ver": "1.0.2",
+        "date": "2026-01-30",
+        "bg_url": "",
+        "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdf/VAULT2.7z",
+        "note": "Post-processing 적용, 배경음악 추가, \n 맵 확장, 1인칭 추가, 배경 변경"
+      },
+      {
         "ver": "1.0.1",
         "date": "2026-01-30",
         "bg_url": "",
@@ -67,6 +74,7 @@
         ]
   }
 ]
+
 
 
 
