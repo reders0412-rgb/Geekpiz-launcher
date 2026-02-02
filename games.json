@@ -69,7 +69,7 @@
   {
     "game_id": "The_Last_Gardener",
     "game_name": "The Last Gardener",
-    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/The%20Last%20Gardener%40icon.png.png",
+    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/The%20Last%20Gardener%40icon.png",
     "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/The%20Last%20Gardener%40bg.png",
     "versions": [
             {
@@ -82,6 +82,7 @@
         ]
     }
 ]
+
 
 
 
