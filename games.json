@@ -69,8 +69,8 @@
   {
     "game_id": "The_Last_Gardener",
     "game_name": "The Last Gardener",
-    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40icon.png",
-    "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40bg.png",
+    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/The%20Last%20Gardener%40icon.png.png",
+    "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/The%20Last%20Gardener%40bg.png",
     "versions": [
             {
                 "ver": "1.0.0",
@@ -82,6 +82,7 @@
         ]
     }
 ]
+
 
 
 
