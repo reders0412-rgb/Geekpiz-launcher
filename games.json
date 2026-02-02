@@ -65,8 +65,24 @@
                 "note": "바이킹들의 마을 구경"
             }
         ]
-  }
+  },
+  {
+    "game_id": "The_Last_Gardener",
+    "game_name": "The Last Gardener",
+    "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40icon.png",
+    "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40bg.png",
+    "versions": [
+            {
+                "ver": "1.0.0",
+                "date": "2026-2-2",
+                "bg_url": "",
+                "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/games/Sewer.Escape.7z",
+                "note": "오염된 도시에서 생명의 핵을 모으세요!"
+            }
+        ]
+    }
 ]
+
 
 
 
