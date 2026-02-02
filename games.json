@@ -78,10 +78,18 @@
                 "bg_url": "",
                 "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdfg/The.Last.Gardener.7z",
                 "note": "오염된 도시에서 생명의 핵을 모으세요!"
+            },
+            {
+                "ver": "1.0.1",
+                "date": "2026-2-2",
+                "bg_url": "",
+                "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdfgfdsadf/The.Last.Gardener.7z",
+                "note": "각종 버그 해결"
             }
         ]
     }
 ]
+
 
 
 
