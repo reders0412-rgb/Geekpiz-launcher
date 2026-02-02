@@ -62,7 +62,7 @@
                 "date": "2026-1-23",
                 "bg_url": "",
                 "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asd/viking.world.7z",
-                "note": "바이킹들의 마을 구경"
+                "note": "바이킹들의 마을 구경\n(종료가 안 될 시 alt + F4)"
             }
         ]
   },
@@ -89,6 +89,7 @@
         ]
     }
 ]
+
 
 
 
