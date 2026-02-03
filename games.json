@@ -8,8 +8,8 @@
       {
         "ver": "1.0.1",
         "date": "2026-01-30",
-        "bg_url": "",
-        "download_url": "",
+        "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/VAULT%40bg1.0.1.png",
+        "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdfghuytfdx/VAULT.7z",
         "note": "Post-processing 적용, 배경음악 추가, \n 맵 확장, 1인칭 추가, 배경 변경"
       },
       {
@@ -30,7 +30,7 @@
             {
                 "ver": "1.0.0",
                 "date": "2026-1-12",
-                "bg_url": "",
+                "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40bg.png",
                 "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/games/Sewer.Escape.7z",
                 "note": "하수도에서 쫒아오는 좀비를 피해 도망치세요!"
             }
@@ -45,7 +45,7 @@
             {
                 "ver": "1.0.0",
                 "date": "2026-1-19",
-                "bg_url": "",
+                "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/runner%40bg.png",
                 "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/sdfg/runner.zip",
                 "note": "무한히 이어지는 공간에서 점프하고 달리세요!"
             }
@@ -60,7 +60,7 @@
             {
                 "ver": "1.0.0 Showcase",
                 "date": "2026-1-23",
-                "bg_url": "",
+                "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/valhalla%40bg.png",
                 "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asd/viking.world.7z",
                 "note": "바이킹들의 마을 구경\n(종료가 안 될 시 alt + F4)"
             }
@@ -75,20 +75,21 @@
             {
                 "ver": "1.0.0",
                 "date": "2026-2-2",
-                "bg_url": "",
+                "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/The%20Last%20Gardener%40bg.png",
                 "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asdfg/The.Last.Gardener.7z",
                 "note": "오염된 도시에서 생명의 핵을 모으세요!"
             },
             {
                 "ver": "1.0.1",
                 "date": "2026-2-2",
-                "bg_url": "",
+                "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/The%20Last%20Gardener%40bg.png",
                 "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/sdfgfdsd/The.Last.Gardener.7z",
                 "note": "각종 버그 해결"
             }
         ]
     }
 ]
+
 
 
 
