@@ -73,7 +73,7 @@
     "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/valhalla%40bg.png",
     "versions": [
             {
-                "ver": "1.0.0 ",
+                "ver": "1.0.0 Experimental Build",
                 "date": "2026-2-5",
                 "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/valhalla%40bg.png",
                 "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/asd/viking.world.7z",
@@ -104,6 +104,7 @@
         ]
     }
 ]
+
 
 
 
