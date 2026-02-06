@@ -37,6 +37,21 @@
         ]
     },
     {
+     "game_id": "Sewer_Escape",
+     "game_name": "Sewer Escape",
+     "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40icon.png",
+     "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40bg.png",
+     "versions": [
+             {
+                "ver": "1.0.0",
+                "date": "2026-1-12",
+                "bg_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/Sewer%20Escape%40bg.png",
+                "download_url": "https://github.com/reders0412-rgb/Geekpiz-image/releases/download/games/Sewer.Escape.7z",
+                "note": "풍선이 되어 날아보세요.\n동생과 만든 게임 입니다.\n[조작법]\nwasd 이동 스페이스바 점프, k키 홈으로 돌아가기"
+             }
+         ]
+    },
+    {
     "game_id": "runner",
     "game_name": "runner",
     "icon_url": "https://github.com/reders0412-rgb/Geekpiz-image/blob/main/runner%40icon.png",
@@ -104,6 +119,7 @@
         ]
     }
 ]
+
 
 
 
